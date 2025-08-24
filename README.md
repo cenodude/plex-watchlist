@@ -119,19 +119,3 @@ python3 backlog_watchlist.py
 - Start with `--dry_run 1` to verify behavior.
 
 ---
-
-## Scripts
-
-### `remove_watchlist.py`
-
-```python
-# (script content from remove_watchlist.py goes here)
-```
-
----
-
-### `backlog_watchlist.py`
-
-```python
-# (script content from backlog_watchlist.py goes here)
-```
