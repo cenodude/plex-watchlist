@@ -4,8 +4,7 @@ Keep your Plex Watchlist tidy with two small utilities:
 - **Tautulli integration**: removes a finished movie (or the parent show of a stopped episode) when playback stops.
 - **Batch cleanup**: scans your Watchlist and removes anything watched or started (configurable).
 
-Requires Python 3.9+ and [`plexapi`](https://github.com/pkkid/python-plexapi).
-
+Requires Python 3.9+ and [`plexapi`](https://github.com/pkkid/python-plexapi) 4.17.1 or higher
 
 ## Tautulli Setup (Playback Stop → remove_watchlist.py)
 
