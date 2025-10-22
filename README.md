@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This project is largely superseded by [CrossWatch](https://github.com/cenodude/CrossWatch).**
+>
+> - New features and active development happen there.
+> - This repo stays in **maintenance mode** (bug/security fixes only).
+> - New here? **TL;DR:** use CrossWatch.
+
 # Plex Watchlist Cleaner
 
 Keep your Plex Watchlist tidy with two small utilities:
