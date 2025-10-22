@@ -3,7 +3,7 @@
 >
 > - New features and active development happen there.
 > - This repo stays in **maintenance mode** (bug/security fixes only).
-> - New here? **TL;DR:** use CrossWatch.
+> - New here? Use CrossWatch.
 
 # Plex Watchlist Cleaner
 
